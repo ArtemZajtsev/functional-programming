@@ -1,6 +1,4 @@
 ﻿(*
-Artem Zaitsev
-arzait
 minhiriath94@gmail.com
 
   Department of Computer Science
@@ -10,8 +8,8 @@ minhiriath94@gmail.com
   Coursework 1: Basic operations on lists
 
   ------------------------------------
-  Name:
-  TUT Student ID:
+  Name: artem zaitsev
+  TUT Student ID:arzait
   ------------------------------------
 
 
