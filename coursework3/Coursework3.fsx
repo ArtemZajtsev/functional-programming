@@ -8,8 +8,8 @@
   Coursework 3: User defined types
 
   ------------------------------------
-  Name:
-  TUT Student ID:
+  Name: artem zaitsev
+  TUT Student ID: arzait
   ------------------------------------
 
 
