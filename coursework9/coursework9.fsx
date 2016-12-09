@@ -120,7 +120,7 @@ downloadSemiParallel uniList
 
 open System.IO
 
-let watcher = new FileSystemWatcher(@"D:\f #\test\test")
+let watcher = new FileSystemWatcher(__SOURCE_DIRECTORY__)
 watcher.EnableRaisingEvents <- true
 
 let additions = watcher.Created |> Observable.map(fun eventArgs -> eventArgs.Name)
